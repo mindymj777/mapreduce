@@ -1,0 +1,2 @@
+this is MapReduce word count program on Hadoop by mj
+MapReduce has other applications like matrix and  matrix multiplication and matrix vector multiplication 
